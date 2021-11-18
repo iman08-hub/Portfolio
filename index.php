@@ -70,7 +70,7 @@ span.psw {
 
 <h2>Login Form</h2>
 
-<form action="Portfolio.php" method="post">
+<form action="asd.php" method="post">
   <div class="imgcontainer">
     <img src="Ичиго.jpeg.png" alt="Avatar" class="avatar">
   </div>
@@ -87,7 +87,7 @@ span.psw {
     </label>
   </div>
 
-  <div class="container" style="background-color:#f1f1f1">
+  <div class="container" style="background-color:#f1f1f1">.php.php
     <button type="button" class="cancelbtn">Cancel</button>
   </div>
 </form>
